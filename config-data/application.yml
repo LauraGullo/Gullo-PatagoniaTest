@@ -1,0 +1,13 @@
+jpa:
+  hibernate.ddl-auto: update
+  generate-ddl: true
+  show-sql: true
+application:
+  name: clientservice
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 1000
