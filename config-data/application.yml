@@ -1,10 +1,3 @@
-jpa:
-  hibernate.ddl-auto: update
-  generate-ddl: true
-  show-sql: true
-application:
-  name: client-service
-
 eureka:
   client:
     service-url:
