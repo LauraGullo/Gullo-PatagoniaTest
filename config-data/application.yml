@@ -3,7 +3,7 @@ jpa:
   generate-ddl: true
   show-sql: true
 application:
-  name: clientservice
+  name: client-service
 
 eureka:
   client:
