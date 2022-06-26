@@ -1,5 +1,4 @@
-server:
-  port: 1001
+
 spring:
   application:
     name: loan-service
