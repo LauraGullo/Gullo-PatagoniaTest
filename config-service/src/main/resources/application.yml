@@ -7,7 +7,7 @@ spring:
         git:
           application: client-service
           default-label: master
-          uri: https://github.com/LauraGullo/Prueba-configServer.git
+          uri: https://github.com/LauraGullo/Gullo-PatagoniaTest.git
           search-paths: config-data
 
   application:
