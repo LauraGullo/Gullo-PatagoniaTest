@@ -5,6 +5,7 @@ spring:
     config:
       server:
         git:
+          application: client-service
           default-label: master
           uri: https://github.com/LauraGullo/Prueba-configServer.git
           search-paths: config-data/client-service
